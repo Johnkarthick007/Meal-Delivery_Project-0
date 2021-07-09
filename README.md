@@ -1,4 +1,3 @@
-# Meal-Delivery_Project-0
 
 # Food Delivery Service
 #### by Jian ZHu
