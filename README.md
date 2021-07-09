@@ -1,6 +1,6 @@
 
 # Food Delivery Service
-#### by Jian ZHu
+#### Karthick
 
 ## Service Function
 1. search restaurant by restaurant name,
