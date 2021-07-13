@@ -1,4 +1,4 @@
-# About my Project
+# Food Delivery Service
 #### By Karthick
 
     * In this project I have used MongoDB for NOSQL database,Jupyter,MongoDB Compass, PyMongo,Built-in Packages like JSON.
@@ -17,44 +17,44 @@
 
 ### 1. Insert_one():
 
-* It will insert one document in our collection.
+      * It will insert one document in our collection.
 
 ### 2. insert_many():
 
-* It will insert multiple document in our collection.
+      * It will insert multiple document in our collection.
 
 ### 3. Find():
 
-* We can query by multiple conditions and it will give all the documents that satisfying the condition.
+      * We can query by multiple conditions and it will give all the documents that satisfying the condition.
 
 ### 4.find_one():
 
-* We can query by multiple conditions and It will give only one document that satisfying the condition.
+      * We can query by multiple conditions and It will give only one document that satisfying the condition.
 
 ### 5. update_many():
 
-* It is used to update multiple document using one command.
+      * It is used to update multiple document using one command.
 
 ### 6. update_one():
 
-* It is used to update one document in our Collection.
+      * It is used to update one document in our Collection.
 
 ### 7. delete_one():
 
-* It is used to delete one document in our Collection.
+      * It is used to delete one document in our Collection.
 
 ### 8. delete_many():
 
-* It is used to delete many documents in our Collection.
+      * It is used to delete many documents in our Collection.
 
 ### 9. sort():
 
-* It is used to sort the documents in asc or desc order.
+      * It is used to sort the documents in asc or desc order.
 
 ### 10.limit()
 
-* It is used to  restrict the number of documents returns from the collection.
+      * It is used to  restrict the number of documents returns from the collection.
 
 ### 11.DropDatabase()
 
-* It is used to delete the collection or database.
+      * It is used to delete the collection or database.
