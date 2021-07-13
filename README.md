@@ -1,6 +1,8 @@
 # Food Delivery Service
 #### By Karthick
 
+## Meal info Service
+
     * In this project I have used MongoDB for NOSQL database,Jupyter,MongoDB Compass, PyMongo,Built-in Packages like JSON.
     * As we are using MongoDB we can query and know about category of meal and the type of cuisine and meal has a unique id. 
     * To query some of the commands which I have used are Insert_one ,Insert_many,delete_one,delete_many,update one, update_many, limit, find, drop,sort. 
@@ -13,7 +15,7 @@
 ### 2. pymongo
     * Tool for interacting with MongoDB database from Python
 
-## Meal info Service
+## PyMongo And MySQL Queries
 
 ### 1. Insert_one():
 
