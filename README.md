@@ -1,16 +1,16 @@
 # About my Project
 #### By Karthick
 
-  * In this project I have used MongoDB for NOSQL database,Jupyter,MongoDB Compass, PyMongo,Built-in Packages like JSON.
-  * As we are using MongoDB we can query and know about category of meal and the type of cuisine and meal has a unique id. 
-  * To query some of the commands which I have used are Insert_one ,Insert_many,delete_one,delete_many,update one, update_many, limit, find, drop,sort. 
-  * To start with this first we will have to establish a connection between 
-  * Jupyter and MangoDB and here PyMongo comes in handy, it  establishes a connection between MongoDb database and Python.
+    * In this project I have used MongoDB for NOSQL database,Jupyter,MongoDB Compass, PyMongo,Built-in Packages like JSON.
+    * As we are using MongoDB we can query and know about category of meal and the type of cuisine and meal has a unique id. 
+    * To query some of the commands which I have used are Insert_one ,Insert_many,delete_one,delete_many,update one, update_many, limit, find, drop,sort. 
+    * To start with this first we will have to establish a connection between 
+    * Jupyter and MangoDB and here PyMongo comes in handy, it  establishes a connection between MongoDb database and Python.
 
 ## Import Library
-1. Json
+### 1. Json
     * Read the data and convert to valied Json formate
-2. pymongo
+### 2. pymongo
     * Tool for interacting with MongoDB database from Python
 
 ## Meal info Service
